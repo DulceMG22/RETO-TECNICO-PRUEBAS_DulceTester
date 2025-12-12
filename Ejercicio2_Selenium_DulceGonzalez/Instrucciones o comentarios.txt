@@ -1,0 +1,6 @@
+Intrucciones o comentarios
+
+->>> Hay que descomprimir el archivo "SeleniumEjercicio2.zip" y luego importar en un IDE para revisarlo (yo use Intellij IDEA CE)
+
+-Use JAVA 21 Temurin
+-Comparto evidencias de la ejecución de Selenium, tambien las evidencias se pueden ver dentro del proyecto en "src/test/evidences/..."
