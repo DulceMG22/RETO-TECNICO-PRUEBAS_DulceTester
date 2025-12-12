@@ -1,0 +1,5 @@
+Intrucciones o comentarios
+
+->>> Importar en JMeter el archivo "Ejercicio3_Performance.jmx" para su revision o ejecución
+
+-En el archivo "Plan de pruebas" hay evidencias y comentarios"
